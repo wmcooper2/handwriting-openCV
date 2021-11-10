@@ -1,6 +1,4 @@
 
-
-
 Using the images from "deskewed/" as a starting point;
 
 1. Gaussian blur
